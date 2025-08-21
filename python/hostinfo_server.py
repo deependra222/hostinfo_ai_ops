@@ -3,6 +3,7 @@
 """
 A simple program that displays the hostname and IP
 Great for testing service routing in Kubernetes
+---
 """
 
 from datetime import datetime
